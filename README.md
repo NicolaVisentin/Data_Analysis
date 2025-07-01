@@ -1,0 +1,3 @@
+# Enhanced Vibration Control on simple Electro-Mechanical System using Piezoelectric Patches
+
+This project involves the study of single-mode vibration attenuation on a clamped cantilever beam using piezoelectric patches and an active circuit. Two piezoelectic patches are coupled to the mechanical structure. Then an active, negative-capacitance electronic circuit is designed, built and tuned so that electromechanical coupling can be exploited to reduce vibrations at a specific mode. Some data analysis techiques are performed in order to reconstruct modal parameters and transfer functions that are needed for the tuning. Finally, the system is tested again to check the effectiveness of this approach.
